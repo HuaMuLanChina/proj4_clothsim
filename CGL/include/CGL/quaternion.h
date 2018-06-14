@@ -6,6 +6,7 @@
 #include "matrix4x4.h"
 
 #include <iosfwd>
+#include <corecrt_math_defines.h>
 
 namespace CGL {
 
